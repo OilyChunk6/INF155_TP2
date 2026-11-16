@@ -1,0 +1,2 @@
+101;Premiere piece;Alice;5;3;0
+102;Duree absente;Benoit;;1;1

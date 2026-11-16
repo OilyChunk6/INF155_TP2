@@ -1,0 +1,9 @@
+9;Piece 9;Equipe 9;1;2;0
+8;Piece 8;Equipe 8;1;2;0
+7;Piece 7;Equipe 7;1;2;0
+6;Piece 6;Equipe 6;1;2;0
+5;Piece 5;Equipe 5;1;2;0
+4;Piece 4;Equipe 4;1;2;0
+3;Piece 3;Equipe 3;1;2;0
+2;Piece 2;Equipe 2;1;2;0
+1;Piece 1;Equipe 1;1;2;0

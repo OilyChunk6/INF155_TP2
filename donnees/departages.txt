@@ -1,0 +1,7 @@
+40;Impression en cours;Equipe 40;5;3;0
+30;Normale arrivee tot;Equipe 30;2;2;1
+20;Urgente recente;Equipe 20;1;1;4
+10;Urgente ancienne;Equipe 10;3;1;2
+5;Urgente de meme arrivee;Equipe 5;2;1;2
+70;Arrivee a la liberation;Equipe 70;1;1;5
+60;Apres une periode inactive;Equipe 60;2;3;30
